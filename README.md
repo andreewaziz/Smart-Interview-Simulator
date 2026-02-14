@@ -1,1 +1,1 @@
-# Ai-Smart-Interview-Simulator-
+# Smart-Interview-Simulator-
